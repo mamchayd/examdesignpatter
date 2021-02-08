@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-02-08T12:45:25</date>
+  <millis>1612784725086</millis>
+  <sequence>3</sequence>
+  <logger>org.enset.examdesignpatter.aspect.log.LogAspect</logger>
+  <level>INFO</level>
+  <class>org.enset.examdesignpatter.aspect.log.LogAspect</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Avant double org.enset.examdesignpatter.model.composite.Circle.surface()</message>
+</record>
+<record>
+  <date>2021-02-08T12:45:25</date>
+  <millis>1612784725217</millis>
+  <sequence>4</sequence>
+  <logger>org.enset.examdesignpatter.aspect.log.LogAspect</logger>
+  <level>INFO</level>
+  <class>org.enset.examdesignpatter.aspect.log.LogAspect</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Après double org.enset.examdesignpatter.model.composite.Circle.surface()</message>
+</record>
+<record>
+  <date>2021-02-08T12:45:25</date>
+  <millis>1612784725217</millis>
+  <sequence>5</sequence>
+  <logger>org.enset.examdesignpatter.aspect.log.LogAspect</logger>
+  <level>INFO</level>
+  <class>org.enset.examdesignpatter.aspect.log.LogAspect</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Durée : 138ms</message>
+</record>
+<record>
+  <date>2021-02-08T12:45:25</date>
+  <millis>1612784725219</millis>
+  <sequence>6</sequence>
+  <logger>org.enset.examdesignpatter.aspect.log.LogAspect</logger>
+  <level>INFO</level>
+  <class>org.enset.examdesignpatter.aspect.log.LogAspect</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Avant double org.enset.examdesignpatter.model.composite.Rectangle.piremiter()</message>
+</record>
+<record>
+  <date>2021-02-08T12:45:25</date>
+  <millis>1612784725280</millis>
+  <sequence>7</sequence>
+  <logger>org.enset.examdesignpatter.aspect.log.LogAspect</logger>
+  <level>INFO</level>
+  <class>org.enset.examdesignpatter.aspect.log.LogAspect</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Après double org.enset.examdesignpatter.model.composite.Rectangle.piremiter()</message>
+</record>
+<record>
+  <date>2021-02-08T12:45:25</date>
+  <millis>1612784725281</millis>
+  <sequence>8</sequence>
+  <logger>org.enset.examdesignpatter.aspect.log.LogAspect</logger>
+  <level>INFO</level>
+  <class>org.enset.examdesignpatter.aspect.log.LogAspect</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Durée : 62ms</message>
+</record>
+<record>
+  <date>2021-02-08T12:45:25</date>
+  <millis>1612784725282</millis>
+  <sequence>9</sequence>
+  <logger>org.enset.examdesignpatter.aspect.log.LogAspect</logger>
+  <level>INFO</level>
+  <class>org.enset.examdesignpatter.aspect.log.LogAspect</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Avant void org.enset.examdesignpatter.model.observres.Parametrage.add(Figure)</message>
+</record>
+</log>
